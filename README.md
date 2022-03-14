@@ -1,5 +1,3 @@
-# Módulo 5 - Bancos de Dados - Nosso projeto Multi-banco de dados
-
 - Trabalhando com o padrão Strategy para Multi DataSources
 
 ## Instalando docker para usar o MongoDB e Postgres
@@ -9,7 +7,7 @@
 docker run \
     --name postgres \
     -e POSTGRES_PASSWORD=minhasenhasecreta \
-    -e POSTGRES_USER=erickwendel \
+    -e POSTGRES_USER=leandroribeiro \
     -e POSTGRES_DB=herois \
     -p 5432:5432 \
     -d \
