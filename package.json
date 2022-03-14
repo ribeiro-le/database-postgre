@@ -1,12 +1,12 @@
 {
-  "name": "modulo05-multidatabase",
+  "name": "multi-database",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha -w *.test.js"
   },
-  "author": "erickwendel",
+  "author": "leandro ribeiro",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^5.2.0"
